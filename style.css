@@ -11,6 +11,7 @@ body {
 
 img {
   max-width: 100%;
+  border-radius: 50%;
 }
 
 h1 {
@@ -40,11 +41,6 @@ em {
   margin: 2dvh auto;
   gap: 1em;
   /*padding: 2em;*/
-}
-
-.incognito__pc,
-.incognito__usuario {
-  border-radius: 50%;
 }
 
 .container-img {
